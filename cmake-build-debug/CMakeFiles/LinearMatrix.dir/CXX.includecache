@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kevinw97/Documents/LinearMatrix/LinearEquation.cpp
+LinearEquation.h
+/Users/kevinw97/Documents/LinearMatrix/LinearEquation.h
+
+/Users/kevinw97/Documents/LinearMatrix/LinearEquation.h
+
+/Users/kevinw97/Documents/LinearMatrix/Matrix.cpp
+Matrix.h
+/Users/kevinw97/Documents/LinearMatrix/Matrix.h
+iostream
+-
+iomanip
+-
+
+/Users/kevinw97/Documents/LinearMatrix/Matrix.h
+Vector.h
+/Users/kevinw97/Documents/LinearMatrix/Vector.h
+
+/Users/kevinw97/Documents/LinearMatrix/Vector.cpp
+iostream
+-
+Vector.h
+/Users/kevinw97/Documents/LinearMatrix/Vector.h
+
+/Users/kevinw97/Documents/LinearMatrix/Vector.h
+
+/Users/kevinw97/Documents/LinearMatrix/main.cpp
+iostream
+-
+Vector.h
+/Users/kevinw97/Documents/LinearMatrix/Vector.h
+Matrix.h
+/Users/kevinw97/Documents/LinearMatrix/Matrix.h
+LinearEquation.h
+/Users/kevinw97/Documents/LinearMatrix/LinearEquation.h
+
